@@ -16,7 +16,7 @@ El propósito de este análisis es explorar los datos de ventas de la tienda Alu
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto contiene los siguientes archivos:
 ── AluraStoreLatam.ipynb # Notebook con todo el análisis paso a paso
